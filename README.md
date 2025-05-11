@@ -33,7 +33,7 @@ Comparison-of-selected-machine-learning-techniques-for-classification/
 │   └── funkcje.py                 # Core functions and utilities
 │
 ├── README.md                      # Project documentation
-└── .gitignore                    # Git ignore file
+└── .gitignore                     # Git ignore file
 ```
 
 ## Features
