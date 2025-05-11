@@ -86,7 +86,7 @@ git clone https://github.com/Comparison-of-selected-machine-learning-techniques-
 ```
 2. Install required packages:
 ```sh
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 Or install packages individually:
 ```sh
