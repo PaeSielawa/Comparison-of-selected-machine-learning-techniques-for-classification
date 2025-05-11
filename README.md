@@ -14,6 +14,28 @@ This project focuses on analyzing yogurt data using various machine learning tec
 - Results Visualization
 - License
 
+## Project Structure 
+
+```
+Comparison-of-selected-machine-learning-techniques-for-classification/
+│
+├── data/
+│   ├── jogurt_kefir_synchr.csv    # First yogurt dataset
+│   ├── jogurt_kefir_synchr1.csv   # Second yogurt dataset
+│   └── jogurt_kefir_synchr2.csv   # Third yogurt dataset
+│
+├── notebooks/
+│   ├── Projekt.ipynb              # Main analysis notebook
+│   ├── ProjektFullData.ipynb      # Full dataset analysis
+│   └── ProjektOneData.ipynb       # Single dataset analysis
+│
+├── src/
+│   └── funkcje.py                 # Core functions and utilities
+│
+├── README.md                      # Project documentation
+└── .gitignore                    # Git ignore file
+```
+
 ## Features
 **Data Analysis**
 - Data preprocessing and cleaning
@@ -59,14 +81,10 @@ This project focuses on analyzing yogurt data using various machine learning tec
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/yogurt-analysis.git
-cd yogurt-analysis
+git clone https://github.com/Comparison-of-selected-machine-learning-techniques-for-classification/Projekt.git
+cd Projekt
 ```
-2. Install required packages:
-```sh
-pip install -r requirements.txt
-```
-Or install packages individually:
+2. Install packages individually:
 ```sh
 pip install pandas numpy seaborn matplotlib scikit-learn umap-learn scipy
 ```
