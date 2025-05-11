@@ -33,6 +33,7 @@ Comparison-of-selected-machine-learning-techniques-for-classification/
 │   └── funkcje.py                 # Core functions and utilities
 │
 ├── README.md                      # Project documentation
+├── requirements.txt               # Package dependencies
 └── .gitignore                     # Git ignore file
 ```
 
@@ -81,10 +82,13 @@ Comparison-of-selected-machine-learning-techniques-for-classification/
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/Comparison-of-selected-machine-learning-techniques-for-classification/Projekt.git
-cd Projekt
+git clone https://github.com/Comparison-of-selected-machine-learning-techniques-for-classification.git
 ```
-2. Install packages individually:
+2. Install required packages:
+```sh
+pip install -r requirements.txt
+```
+Or install packages individually:
 ```sh
 pip install pandas numpy seaborn matplotlib scikit-learn umap-learn scipy
 ```
