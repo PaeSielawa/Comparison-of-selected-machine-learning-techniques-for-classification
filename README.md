@@ -1,4 +1,4 @@
-# Yogurt Analysis Project
+# Comparison-of-selected-machine-learning-techniques-for-classification
 
 ## Overview
 This project focuses on analyzing yogurt data using various machine learning techniques including dimensionality reduction and supervised classification methods. The analysis aims to identify patterns and relationships in yogurt characteristics across different parameters.
