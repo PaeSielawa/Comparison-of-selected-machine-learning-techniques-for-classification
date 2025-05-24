@@ -82,7 +82,7 @@ Comparison-of-selected-machine-learning-techniques-for-classification/
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/Comparison-of-selected-machine-learning-techniques-for-classification.git
+git clone https://github.com/PawelSiwiela/Comparison-of-selected-machine-learning-techniques-for-classification.git
 ```
 2. Install required packages:
 ```sh
